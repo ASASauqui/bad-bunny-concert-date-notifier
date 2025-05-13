@@ -126,7 +126,7 @@ def main():
             check_new_dates(countries)
         except Exception as e:
             print(f"Error during scraping: {e}")
-        time.sleep(20 * 60)
+        time.sleep(20 * 60) # Every 20 minutes
 
 
 if __name__ == "__main__":
