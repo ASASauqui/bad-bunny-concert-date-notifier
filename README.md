@@ -1,6 +1,6 @@
 # 🐰 Bad Bunny Concert Date Notifier
 
-**A fun little Python project to stay updated on Bad Bunny concert dates — without having to refresh event pages every day.**
+**A fun little Python project to stay updated on Bad Bunny concert dates for the DeBÍ TiRAR MáS FOToS World Tour — without having to refresh event pages every day.**
 
 <br>
 
